@@ -1,0 +1,8 @@
+C:\Users\Валерия\source\repos\Give_Cash_App\Give_Cash_App\bin\Debug\Give_Cash_App.exe.config
+C:\Users\Валерия\source\repos\Give_Cash_App\Give_Cash_App\bin\Debug\Give_Cash_App.exe
+C:\Users\Валерия\source\repos\Give_Cash_App\Give_Cash_App\bin\Debug\Give_Cash_App.pdb
+C:\Users\Валерия\source\repos\Give_Cash_App\Give_Cash_App\obj\Debug\Give_Cash_App.csproj.AssemblyReference.cache
+C:\Users\Валерия\source\repos\Give_Cash_App\Give_Cash_App\obj\Debug\Give_Cash_App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Валерия\source\repos\Give_Cash_App\Give_Cash_App\obj\Debug\Give_Cash_App.csproj.CoreCompileInputs.cache
+C:\Users\Валерия\source\repos\Give_Cash_App\Give_Cash_App\obj\Debug\Give_Cash_App.exe
+C:\Users\Валерия\source\repos\Give_Cash_App\Give_Cash_App\obj\Debug\Give_Cash_App.pdb
